@@ -1,0 +1,7 @@
+name: Tobias
+super: true
+id: f339305f-fae4-4212-8226-a31949852475
+password_hash: $2y$12$n29hMNxL582n7hAIOKJXt.rIC4C0P/khCv.SzgsuqPqWEJH0uTlSS
+preferences:
+  locale: en
+  favorites: {  }
